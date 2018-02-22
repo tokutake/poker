@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  hoge
+//  poker
 //
 //  Created by Hokuto Tokutake on 07/02/2018.
 //  Copyright © 2018 Hokuto Tokutake. All rights reserved.
